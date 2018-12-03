@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PizzaOrderApp</string>
+    <string name="pizza_time">وقت البيتزا!</string>
+    <string name="sausage">صوصج</string>
+    <string name="cheese">جبن</string>
+    <string name="apple">تفاح</string>
+    <string name="olives">زيتون</string>
+    <string name="choose_your_pizza">اختر البيتزا</string>
+    <string name="choose_extras">اختر الاضافات</string>
+    <string name="pepsi">ببسي</string>
+    <string name="garlic">ثومية</string>
+    <string name="fries">بتيته</string>
+    <string name="enter_tip_here_e_g_0">اكتب البقشيش (صفر مثلا)</string>
+    <string name="calculate_price">جمبزني</string>
+</resources>
